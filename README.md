@@ -6,7 +6,7 @@ Tags: security, password protected pages
 
 Requires at least: 3.7
 
-Description: This plugin will require visitor to type in password each time when visiting a password protected page. By default Wordpress password protected pages sessions will last 10 days. Originally came up with the idea when a client didn't want password protected pages to stay login. While you could add the code to your funtion.php within your theme but I didn't want the code to get overwritten when doing a theme update. Using this plugin avoids the need for updating the funtion.php file.
+Description: It's a really simple plugin but does the job. This plugin will require visitor to type in password each time when visiting a password protected page. By default WordPress password protected pages sessions will last 10 days. Originally came up with this idea when a client did not want a password protected pages to stay login. While you could add the code to your function.php within your theme I did not want the code to get overwritten when doing a theme update. Using this plugin avoids the need for updating the function.php file. 
 
 Once you have it uploaded to your WordPress install. Simply login to your Wordpress backend and activate the plugin. After it's activated you no longer need to do anything. You can test the page by refreshing the page after typing the password or closing your browser. Once you visit the page again it will force you to type in the password.
 
