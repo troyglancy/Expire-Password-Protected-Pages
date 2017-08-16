@@ -1,4 +1,4 @@
-# Expire-Password-Protected-Pages
+# Expire Password Protected Pages
 
 Contributors: troyglancy
 
