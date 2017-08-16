@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Expire Password Protected Pages
-Plugin URI: https://github.com/troyglancy/Expire-Password-Protected-Pages
+Plugin URI: https://wordpress.org/plugins/expire-password-protected-pages/
 Description: This plugin will require vistior to type in password each time when visiting a password protected page. This also will prevent the page from being accessable if someone logins via a public computer. 
 Version: 0.1.0
 Author: Troy Glancy 
